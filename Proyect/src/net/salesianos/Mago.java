@@ -8,7 +8,7 @@ public class Mago extends Personaje {
     }
 
     public void lanzarHechizo() {
-        System.out.println(nombre + " ha lanzado un hechizo");
+        System.out.println(nombre + " lanza su hechizo: '¡No pasarás!'");
     }
 
 }

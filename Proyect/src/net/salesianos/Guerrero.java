@@ -7,6 +7,6 @@ public class Guerrero extends Personaje {
     }
 
     public void atacar() {
-        System.out.println(nombre + "ataca con espada");
+        System.out.println(nombre + " ataca y dice: '¡Cuenta con mi espada!'");
     }
 }
